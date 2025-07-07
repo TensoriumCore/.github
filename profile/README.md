@@ -2,7 +2,7 @@
 
 # Tensorium Foundation
 
-The **Tensorium Foundation** is a non-profit organization dedicated to advancing research and open-source software in high-performance scientific computing, symbolic computation, and numerical relativity.
+The **Tensorium Foundation** is a non-profit organization dedicated to advancing research and open-source software in high-performance scientific computing with a focus on numerical relativity.
 
 ## Vision
 
