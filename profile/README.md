@@ -21,9 +21,6 @@ We believe in a transparent, community-driven ecosystem where cutting-edge scien
 - **Tensorium_tex**  
   Tools and parsers for converting LaTeX-based tensor equations into executable code or intermediate representations.
 
-- **Tensorium-simd2gpu**  
-  Infrastructure for translating SIMD-optimized code to GPU kernels, enabling performance portability from CPU to GPU.
-
 - **Educational Resources**  
   Open documentation, tutorials, and courses to help students and researchers master high-performance computing, relativity, and scientific programming.
 
